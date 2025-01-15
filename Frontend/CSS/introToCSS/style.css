@@ -1,7 +1,14 @@
+/* Converting the font size of the p tag to 20px */
 p{
-    color: orange;
+    font-size: 20px;
 }
 
-p{
-    color: purple;
+/* Converting the font size of the h1 tag to 40px */
+h1{
+    font-size: 40px;
+}
+
+/* Converting the h4 tags of the list items to uppercase */
+h4{
+    text-transform: uppercase;
 }
